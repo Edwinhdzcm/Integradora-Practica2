@@ -1,5 +1,5 @@
 # Integradora-Practica2
-práctica de clase para comenzar a utilizar Github como herramienta para el desarrollo colaborativo, control de versiones y documentación del proyecto integrador de la asignatura ñ
+práctica de clase para comenzar a utilizar Github como herramienta para el desarrollo colaborativo, control de versiones y documentación del proyecto integrador de la asignatura 
 
 ### comandos básicos para el maquetado
 
