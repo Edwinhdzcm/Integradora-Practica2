@@ -150,3 +150,11 @@ síes en nuestra documentación necesitamos incluir información de texto en mod
 
 las ligas utilizadas para vincular elementos o referencias del proyecto dentro del mismo repositorio o fuera de el. Y se maquetan utilizando lo corchetes \[ \], inmediatamente después pondremos la liga de referencia entre paréntesis /()
 
+Ejemplo: Mi buscador favorito es Google  
+
+Pero si deseamos poner solo las ligas directas o un correo electrónico podemos utilizar los símbolos < >.
+
+Ejemplo:
+Documentación creada por: Edwin Hernández Campos 
+230425@utxicotepec.edu.mx 
+http://www.utxicotepec.edu.mx
