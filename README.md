@@ -16,6 +16,8 @@ Ejemplo
 ###### Encabezado de nivel 6 
 ####### Encabezado de nivel 7 se reconoce como texto simple 
 
+Práctica 3
+
 ### 2. Separadores (SEPARATORS)
 Si desea carcar una separación visual de contenidos pordemos utilizarlos indicando tres caractres "-" en el maquetado
 
@@ -81,7 +83,7 @@ TEXTO TEXTO TEXTO TEXTO *TEXTO Cursivo* TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO
 TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO 
 TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO <ins> TEXTO Subrayado < ins> TEXTO 
 
-# Integradora practica 03
+# Integradora practica 04
 
 Continuamos con los comandos básicos de Git y GitHub para el maquetado de la documentación 
 
@@ -158,3 +160,5 @@ Ejemplo:
 Documentación creada por: Edwin Hernández Campos 
 230425@utxicotepec.edu.mx 
 http://www.utxicotepec.edu.mx
+
+
